@@ -1,0 +1,1 @@
+<livewire:kanban.kanban-text-component key="{{ Str::random(5) }}" type="text" model="App\Models\Kanban\Kanban" field="atividade" :data=$model />
